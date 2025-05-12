@@ -1,5 +1,4 @@
-print ("## 👋 Olá Mundo!")
-
-print("Sou Novato") 
-print("Estou aprendendo a linguagem. Comcei meu curso de TI esse ano, embreve estarei contribuindo.")
-print("Email: ricardoaugustoaarita@outlook.com")
+"## 👋 Olá Mundo
+"Sou Novato"
+"Estou aprendendo a linguagem. Comecei meu curso de TI esse ano, embreve estarei contribuindo."
+"Email: ricardoaugustoaarita@outlook.com"
